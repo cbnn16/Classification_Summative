@@ -5,6 +5,7 @@ install.packages("ggplot2")
 install.packages("ggforce")
 install.packages("randomForest")
 install.packages("caret")
+install.packages("DataExplorer")
 
 library("data.table")
 library("mlr3verse")
